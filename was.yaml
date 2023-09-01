@@ -24,7 +24,7 @@ metadata:
   name: was-svc
 spec:
   type: ClusterIP
-  clusterIP: 10.100.100.100
+  clusterIP: 10.100.10.10
   ports:
   - port: 8080
     protocol: TCP
